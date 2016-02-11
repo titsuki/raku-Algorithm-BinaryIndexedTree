@@ -10,6 +10,16 @@ SYNOPSIS
 
     use Algorithm::BinaryIndexedTree;
 
+    my $BIT = Algorithm::BinaryIndexedTree.new();
+    $BIT.add(5,10);
+    $BIT.get(0); # 0
+    $BIT.get(5); # 10
+    $BIT.sum(4); # 0
+    $BIT.sum(5); # 10
+
+    $BIT.add(0,10);
+    $BIT.sum(5); # 20
+
 DESCRIPTION
 ===========
 
