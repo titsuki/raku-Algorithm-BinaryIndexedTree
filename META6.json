@@ -10,7 +10,7 @@
   "depends" : [ ],
   "description" : "data structure for cumulative frequency tables",
   "test-depends" : [ ],
-  "version" : "*",
+  "version" : "0.01",
   "authors" : [
     "okaoka"
   ]
