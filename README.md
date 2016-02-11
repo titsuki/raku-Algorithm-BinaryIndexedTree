@@ -12,13 +12,13 @@ SYNOPSIS
 
     my $BIT = Algorithm::BinaryIndexedTree.new();
     $BIT.add(5,10);
-    $BIT.get(0); # 0
-    $BIT.get(5); # 10
-    $BIT.sum(4); # 0
-    $BIT.sum(5); # 10
+    $BIT.get(0).say; # 0
+    $BIT.get(5).say; # 10
+    $BIT.sum(4).say; # 0
+    $BIT.sum(5).say; # 10
 
     $BIT.add(0,10);
-    $BIT.sum(5); # 20
+    $BIT.sum(5).say; # 20
 
 DESCRIPTION
 ===========
