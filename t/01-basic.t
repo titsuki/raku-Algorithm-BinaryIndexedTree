@@ -50,7 +50,7 @@ subtest {
     dies-ok { $BIT.sum(-1); }, "when it sums tree[-1] then it should die";
     is $BIT.sum(0), 20, "when it sums tree[0..0] then it should return 20";
     is $BIT.sum(1), 20, "when it sums tree[0..1] then it should return 20";
-}, "Given: It add value 10 to tree[0] twice";
+}, "Given: It adds value 10 to tree[0] twice";
 
 subtest {
     my $BIT = Algorithm::BinaryIndexedTree.new(size => 1000);
