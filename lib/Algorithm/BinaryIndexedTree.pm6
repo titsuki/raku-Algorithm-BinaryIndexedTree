@@ -96,7 +96,9 @@ Algorithm::BinaryIndexedTree is the data structure for maintainig the cumulative
 
 =head2 CONSTRUCTOR
 
-=item C<<my $BIT = Algorithm::BinaryIndexedTree.new(%options)>>
+=head3 new
+
+       my $BIT = Algorithm::BinaryIndexedTree.new(%options);
 
 =head4 OPTIONS
 
@@ -106,15 +108,21 @@ Sets table size. Default is 1000.
 
 =head2 METHODS
 
-=item C<<$BIT.add($index, $value)>>
+=head3 add
+
+      $BIT.add($index, $value);
 
 Adds given value to the index C<<$index>>.
 
-=item C<<my $sum = $BIT.sum($index)>>
+=head3 sum
+
+       my $sum = $BIT.sum($index);
 
 Returns sum of the values of items from index 0 to index C<<$index>> inclusive.
 
-=item C<<my $value = $BIT.get($index)>>
+=head3 get
+
+      my $value = $BIT.get($index);
 
 Returns the value at index C<<$index>>.
 
