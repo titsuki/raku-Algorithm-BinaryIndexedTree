@@ -1,6 +1,6 @@
 {
   "name" : "Algorithm::BinaryIndexedTree",
-  "source-url" : "git://github.com/okaoka/p6-Algorithm-BinaryIndexedTree.git",
+  "source-url" : "git://github.com/titsuki/p6-Algorithm-BinaryIndexedTree.git",
   "perl" : "6.c",
   "resources" : [ ],
   "build-depends" : [ ],
@@ -12,6 +12,6 @@
   "test-depends" : [ ],
   "version" : "0.03",
   "authors" : [
-    "okaoka"
+    "titsuki"
   ]
 }
