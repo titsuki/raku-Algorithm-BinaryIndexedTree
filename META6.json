@@ -10,7 +10,7 @@
   "depends" : [ ],
   "description" : "data structure for cumulative frequency tables",
   "test-depends" : [ ],
-  "version" : "0.04",
+  "version" : "0.05",
   "authors" : [
     "titsuki"
   ]
