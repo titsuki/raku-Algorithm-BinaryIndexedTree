@@ -128,7 +128,7 @@ Returns the value at index C<<$index>>.
 
 =head1 AUTHOR
 
-titsuki <cookbook_000@yahoo.co.jp>
+titsuki <titsuki@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
