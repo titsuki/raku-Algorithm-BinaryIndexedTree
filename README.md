@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/titsuki/raku-Algorithm-BinaryIndexedTree.svg?branch=master)](https://travis-ci.org/titsuki/raku-Algorithm-BinaryIndexedTree)
+[![Actions Status](https://github.com/titsuki/raku-Algorithm-BinaryIndexedTree/workflows/test/badge.svg)](https://github.com/titsuki/raku-Algorithm-BinaryIndexedTree/actions)
 
 NAME
 ====
