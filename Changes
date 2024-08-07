@@ -1,4 +1,6 @@
 Revision history for Algorithm-BinaryIndexedTree
 
 {{$NEXT}}
-    - Initial version
+
+0.0.6  2024-08-07T22:13:43+09:00
+    - Put Algorithm-BinaryIndexedTree on zef instead of ecosystem
