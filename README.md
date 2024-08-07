@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/titsuki/p6-Algorithm-BinaryIndexedTree.svg?branch=master)](https://travis-ci.org/titsuki/p6-Algorithm-BinaryIndexedTree)
+[![Build Status](https://travis-ci.org/titsuki/raku-Algorithm-BinaryIndexedTree.svg?branch=master)](https://travis-ci.org/titsuki/raku-Algorithm-BinaryIndexedTree)
 
 NAME
 ====
@@ -72,3 +72,4 @@ Copyright 2016 titsuki
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 
 The algorithm is from Fenwick, Peter M. "A new data structure for cumulative frequency tables." Software: Practice and Experience 24.3 (1994): 327-336.
+
