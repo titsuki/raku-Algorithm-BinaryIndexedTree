@@ -2,5 +2,29 @@ Revision history for Algorithm-BinaryIndexedTree
 
 {{$NEXT}}
 
+0.0.7  2024-08-07T23:50:13+09:00
+    - Just re-release, 0.0.7 is same as 0.0.6
+
 0.0.6  2024-08-07T22:13:43+09:00
-    - Put Algorithm-BinaryIndexedTree on zef instead of ecosystem
+   - Fixes:
+      - Put Algorithm-BinaryIndexedTree on zef instead of ecosystem [c908f2c] [1360c09] [c5be0b8] [01c3f9d] [9ca5c8a]
+   - Additions:
+   - Efficiency:
+
+v0.05
+   - Fixes:
+      - Fix author info
+   - Additions:
+   - Efficiency:
+
+v0.04
+   - Fixes:
+      - Fix author info
+   - Additions:
+   - Efficiency:
+
+v0.03
+   - Fixes:
+      - Improve the documentation
+   - Additions:
+   - Efficiency:

@@ -1,5 +1,5 @@
 use v6;
-unit class Algorithm::BinaryIndexedTree:auth<zef:titsuki>:ver<0.0.6>;
+unit class Algorithm::BinaryIndexedTree:auth<zef:titsuki>:ver<0.0.7>;
 
 has @!tree;
 has Int $!size;
