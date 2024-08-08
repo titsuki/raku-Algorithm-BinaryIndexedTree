@@ -2,6 +2,9 @@ Revision history for Algorithm-BinaryIndexedTree
 
 {{$NEXT}}
 
+0.0.8  2024-08-08T21:48:45+09:00
+    - Make auth single value instead of array [79ff4]
+
 0.0.7  2024-08-07T23:50:13+09:00
     - Just re-release, 0.0.7 is same as 0.0.6
 
